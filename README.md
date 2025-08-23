@@ -1,2 +1,2 @@
-# Pointers-PART-1 & 2-
+# Pointers-PART-1-
 👻
